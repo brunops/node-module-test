@@ -1,0 +1,22 @@
+{
+  "name": "node-module-test",
+  "version": "0.0.0",
+  "description": "test node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brunops/node-module-test"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "brunops",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/brunops/node-module-test/issues"
+  }
+}
